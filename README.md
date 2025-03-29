@@ -15,11 +15,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 5. Encode categorical variables using LabelEncoder() to convert them into numerical values. 
 
 ## Program:
-/*
+
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+
 Developed by: Jayamani R
-RegisterNumber:  212222100014
-*/
+
+Register Number:  212222100014
+
 ```python
 
 
@@ -47,7 +49,6 @@ print(classification)
 lr.predict([[1,80,1,9,1,1,90,1,0,85,1,85]])
 
 ```
-
 
 ## Output:
 ![Screenshot 2025-03-28 123601](https://github.com/user-attachments/assets/800110c0-df4c-4271-bd92-d84d2022b4e3)
